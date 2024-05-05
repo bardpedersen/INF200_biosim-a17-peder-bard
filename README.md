@@ -35,3 +35,6 @@ subprocesses
 # Authors and acknowledgment
 Hans Ekkehard Plesser made the framework on this code.
 
+This code was written with Peder Bukaasen, https://github.com/Pederbuk
+
+
